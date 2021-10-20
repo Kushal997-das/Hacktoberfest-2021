@@ -27,6 +27,6 @@
   
 <td align="center"><p><a href="https://github.com/1998ramanpreet">Ramanpreet Kaur</a></p><img src="https://github.com/1998ramanpreet/Hacktoberfest-2022/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/1998ramanpreet.PNG"/><p><a href="https://github.com/Kushal997-das/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
 
-
+<td align="center"><p><a href="https://github.com/psathyanarayan">P Sathya Narayan</a></p><img src="https://github.com/psathyanarayan/Hacktoberfest-2022/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/sathya.png"/><p><a href="https://github.com/psathyanarayan/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
 
 
